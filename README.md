@@ -18,7 +18,7 @@
 ## 🚀 About Me / 关于我
 
 - 🎓 **Student**: Currently a 15-year-old high school student.
-  > **学生**: 目前是一名15岁的中学生。
+  > **学生**: 目前是一名中学生。
   
 - 🐍 **Learning**: Exploring the world of **Python**. Always ready to learn new things!
   > **学习**: 正在探索 **Python** 的世界。时刻准备学习新知识！
@@ -27,8 +27,7 @@
   > **技术宅**: 热爱自动化、系统优化和探索各类技术工具。
 
 - ⚡ **Fun fact**: Coding is my superpower in the making.
-  > **趣事**: 正在努力将代码变成我的超能力。
-
+  > **趣事**: 正在努力学习代码
 ---
 
 ## 📊 GitHub Stats / 统计信息
