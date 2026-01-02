@@ -1,66 +1,54 @@
-<div align="center">
-  
-# Hi there, I'm fcy10012 👋
+# 切换语言 | [English](./README(E).md)
 
-<!-- Typing effect or simple subtitle -->
-<h3> A 15-year-old Student & Python Beginner </h3>
-<h3> 15岁中学生 | Python 学习者 </h3>
+# 👋 大家好，我是 fcy10012
+
+🚀 一个热爱开源、持续贡献的技术爱好者，专注于编程和系统优化。  
+📚 不断学习，乐于分享，喜欢用代码解决实际问题。
 
 ---
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=fcy10012&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
-
-</div>
-
-
-## 🚀 About Me / 关于我
-
-- 🎓 **Student**: Currently a 15-year-old high school student.
-  > **学生**: 目前是一名中学生。
-  
-- 🐍 **Learning**: Exploring the world of **Python**. Always ready to learn new things!
-  > **学习**: 正在探索 **Python** 的世界
-- 💻 **Tech Enthusiast**: Love automation, system optimization, and exploring tech tools.
-  > **技术宅**: 热爱自动化、系统优化和探索各类技术工具。
-
-- ⚡ **Fun fact**: Coding is my superpower in the making.
-  > **趣事**: 正在努力学习代码
----
-
-## 📊 GitHub Stats / 统计信息
+## 🌟 我的 GitHub 贡献实时数据
 
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=fcy10012&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="180px"/>
+<!-- GitHub 统计卡 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fcy10012&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcy10012&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="180px"/>
+<!-- 连续贡献天数 -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fcy10012&theme=radical)
 
-<br/>
+<!-- 语言排名 -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fcy10012&layout=compact&theme=radical)
+
+<!-- 贡献图 -->
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=fcy10012&theme=react-dark&area=true&hide_border=true)
 
 </div>
 
 
 ---
 
-## 🛠️ Tech Stack / 技术栈
+## 🤝 个人贡献亮点
+
+- 在多个项目中提交数百次代码贡献，持续推动项目进展  
+- 维护并优化多份开源代码库，提高代码质量和性能  
+- 积极参与 Issue 讨论与问题解决，提升开源社区活跃度  
+- 撰写技术文档与教程，帮助更多人快速上手开发  
+
+---
+
+## 📫 联系方式
 
 
 <div align="center">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-	<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
- <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Java" />
-    <!-- Add more as you learn -->
+
+[![QQ](https://img.shields.io/badge/QQ-20235163888-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=20235163888&site=qq&menu=yes)  
+[![GitHub](https://img.shields.io/badge/GitHub-fcy10012-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fcy10012)
+
 </div>
 
 
 ---
 
-
-<div align="center">
-  <sub><i>"Stay hungry, stay foolish."</i></sub>
-</div>
+感谢关注！更多实时数据请访问我的 [GitHub主页](https://github.com/fcy10012)。
