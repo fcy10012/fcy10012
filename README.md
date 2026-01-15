@@ -137,4 +137,11 @@ gantt
 
 </div>
 
+## ⭐ Star History
+
+如果喜欢这个项目，请给个Star ⭐
+
+[![Star History Chart](https://api.star-history.com/svg?repos=re-ovo/rikkahub&type=Date)](https://star-history.com/#re-ovo/rikkahub&Date)
+
+
 > *本简介基于GitHub API实时数据生成，最后更新于 2026-01-02*
